@@ -7,7 +7,7 @@
 
 - Local:        http://localhost:3000
 - HEAD / 200 in 269ms (next.js: 40ms, application-code: 229ms)
-xt/dev/logs/next-development.log
-
-Run kill 173292 to stop it.
-[?25h
+ HEAD / 200 in 532ms (next.js: 123ms, application-code: 408ms)
+ GET / 200 in 129ms (next.js: 13ms, application-code: 116ms)
+ GET / 200 in 218ms (next.js: 8ms, application-code: 210ms)
+ HEAD / 200 in 59ms (next.js: 6ms, application-code: 54ms)
